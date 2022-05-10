@@ -5,6 +5,7 @@ int main(void) {
   int numero;
   const x = 1;
   int cont =0;
+  //teste github
 
   
   printf("Escreva um numeo: \n");
